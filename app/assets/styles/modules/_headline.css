@@ -1,0 +1,36 @@
+.headline {
+
+    font-weight: 300 ;
+    font-size: 2.875rem  ;
+    color : rgb(35, 81, 128) ;
+
+
+    &--centered {
+
+        text-align: center ;
+
+
+
+    }
+
+    &--orenge {
+
+
+        color: orange ;
+        font-size: 1.875rem ;
+        max-width: 500px ;
+        margin-left: auto ;
+        margin-right: auto ;
+
+
+
+    }
+
+    &--light {
+
+            font-weight: 150 ;
+
+
+
+    }
+}
